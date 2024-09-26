@@ -7,5 +7,5 @@
 
 
 ##### The graphs, charts, visualizations, and model analysis are elaborated more clearly in the project presentation. I encourage you to check it out!
-<img src="https://github.com/user-attachments/assets/2e5422bb-b8fe-401c-b118-0f5f0e046e4a" width="950" height="600">
+<img src="https://github.com/user-attachments/assets/2e5422bb-b8fe-401c-b118-0f5f0e046e4a" width="700" height="400">
 
