@@ -1,5 +1,3 @@
-# find-boston-house
-Analysis of social factors influencing property prices and house segregation using EDA, linear regression, CART, and K-Means clustering.
 # House Price Evaluation as 1978 Boston Housing Agency
 
 #### ⭐ Project Name : Housing Data of Boston Area (Team Project)
@@ -9,5 +7,5 @@ Analysis of social factors influencing property prices and house segregation usi
 
 
 ##### The graphs, charts, visualizations, and model analysis are elaborated more clearly in the project presentation. I encourage you to check it out!
-<img src="https://github.com/user-attachments/assets/2e5422bb-b8fe-401c-b118-0f5f0e046e4a" width="850" height="600">
+<img src="https://github.com/user-attachments/assets/2e5422bb-b8fe-401c-b118-0f5f0e046e4a" width="950" height="600">
 
