@@ -1,6 +1,6 @@
 # ========================================================================================================
 # Purpose:      Final Project (Team) - Clustering Part
-# Author:       Sasha Annabel
+# Author:       Sasha A.
 # DOC:          25/07/2024
 # Topics:       K-Means Clustering, data table, boxplot analysis
 # Data Source:  BostonHousing2
